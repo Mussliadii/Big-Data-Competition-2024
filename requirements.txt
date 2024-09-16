@@ -9,3 +9,5 @@ Python-IO
 pybase64
 image 
 YOLO
+libgl1-mesa-glx
+libglib2.0-0
