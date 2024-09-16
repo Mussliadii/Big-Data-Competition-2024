@@ -2,7 +2,8 @@ pandas
 numpy
 snowflake-connector-python
 streamlit_option_menu
-opencv-python
+opencv-python-headless
+streamlit
 Pillow
 ultralytics
 Python-IO
