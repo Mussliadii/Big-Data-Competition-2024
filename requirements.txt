@@ -1,0 +1,8 @@
+streamlit
+pandas
+snowflake-connector-python
+streamlit-option-menu
+opencv-python-headless
+Pillow
+numpy
+ultralytics
