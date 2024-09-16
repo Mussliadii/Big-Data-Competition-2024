@@ -1,0 +1,11 @@
+pandas
+numpy
+snowflake.connector
+streamlit_option_menu
+cv2
+PIL
+ultralytics
+io
+base64
+image 
+YOLO
