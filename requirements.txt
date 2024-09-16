@@ -1,11 +1,11 @@
 pandas
 numpy
-snowflake.connector
+snowflake-connector-python
 streamlit_option_menu
-cv2
-PIL
+opencv-python
+Pillow
 ultralytics
-io
-base64
+Python-IO
+pybase64
 image 
 YOLO
