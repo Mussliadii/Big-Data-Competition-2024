@@ -1,5 +1,5 @@
 # BDC-2024
 
-participated in a competition held by syiah kuala university with the theme of green economy which requires us to classify images in the class of none, fire, smoke and smoke & fire using YOLOV-8-cls.
+Participated in a competition held by Syiah Kuala University with the theme Establishing Pathway to Sustanable Future: Adhering Green Economy by Leveraging Data Science for Innovation which challenges participants to classify forest images that are safe or not in several labels such as None, Fire, Smoke and Smoke&Fire using YOLOV-8-cls.
 
-competition link : https://www.kaggle.com/competitions/big-data-competition-statistics-explore-2024
+Competition link : https://www.kaggle.com/competitions/big-data-competition-statistics-explore-2024
